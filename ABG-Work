@@ -1,0 +1,13 @@
+Rena Wolford
+Background ABG Bathwork
+- 14 Brands based on bootstrap
+- Each brand use separate css variables file
+- Flexible for customization
+- Work with there team to get story book setup, components together
+  - Remove bootstrap
+  - Replace with css variables for more flexiblilty
+  - Update webpack config to use dark sass instead of node sass
+- First client to expand American Whirlpool
+  - Refactor exisitng componenet
+  - 35 componenets with control, each can consume 12 hours
+- 
